@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @albergvasili
-- 👀 I’m interested in starting a new career as a programmer.
+- 👀 I’m interested in starting a career as a programmer.
 - 🌱 I’m currently learning python.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me albergvasili@gmail.com
