@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @albergvasili
 - 👀 I’m interested in starting a career as a programmer.
-- 🌱 I’m currently learning SQL.
+- 🌱 I’m currently learning javascript.
 - 📫 How to reach me albergvasili@gmail.com
 
 <!---
